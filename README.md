@@ -7,8 +7,8 @@ to Constructor&quot;
 
 syntax:
 Func_Interface ob = Class_name :: new;
-Ex:
-ITest ob1 = Display :: new;
+Ex:<b>
+ITest ob1 = Display :: new;<b>
 (b)reference to Instance method:
 The process in which abstract method of functional interface
 is attached with the body of Instance method is known as
