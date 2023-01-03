@@ -10,6 +10,7 @@ Func_Interface ob = Class_name :: new;
 Ex:<b>
 ITest ob1 = Display :: new;<b>
 <hr>
+
 ## (b)reference to Instance method:
 The process in which abstract method of functional interface
 is attached with the body of Instance method is known as
@@ -20,6 +21,7 @@ Func_Interface ob = object_name :: method_name;<b>
 Ex:<b>
 ITest ob2 = d :: m1;<b>
 <hr>
+
 ## (c)reference to Static method:
 =&gt;The process in which abstract method of functional interface
 is attached with the body of Static method is known as
